@@ -23,4 +23,3 @@ tags= {
 
   }
 }
-ubuntu@ubuntu-VMware-Virtual-Platform:~/Terraform/instance_cre$ 
